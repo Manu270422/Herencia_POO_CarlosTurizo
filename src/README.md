@@ -23,4 +23,4 @@ Este proyecto es una simulación simple de un sistema de biblioteca usando Progr
 - **Prestamo**: contiene la lógica de un préstamo con estado y fechas.
 
 ---
-Hecho por: Carlos Manuel Turizo Hernández
+Hecho por: Carlos Manuel Turizo Hernández 
